@@ -29,7 +29,7 @@ def modFile(oldDic): #Modifies already existing wordlist
 
 def help():
     print("\nWelcome to Python dictionary generator.\nPlease use responsibly and in a lawful matter")
-    print("Usage:\n-b specifies length of new brute force dictionary\n-m edits existing dictionary\nExample: SSHcrack root 192.168.1.123 passlist.txt")
+    print("Usage:\n-b specifies length of new brute force dictionary\n-m edits existing dictionary")
     sys.exit('[+] Exiting...\n')
 
 def main():
