@@ -8,4 +8,5 @@ This programme is intended for education purposes only. I do not take any respon
 Usage
 
 -b specifies length of new brute force dictionary
+
 -m edits existing dictionary
